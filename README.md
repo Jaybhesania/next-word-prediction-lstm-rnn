@@ -20,7 +20,7 @@ Launch the app locally with:
 ```bash
 streamlit run app.py
 ```
-![next_word_prediction.png](next_word_prediction.png)
+![next_word_predict_lstm.png](next_word_predict_lstm.png)
 
 ##  Project Structure
 
